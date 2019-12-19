@@ -1,11 +1,11 @@
-name:                LexiconicalAnaylsis
+name:                UniqueSounds
 version:             0.1.0.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/rnunz/LexiconicalAnaylsis
+homepage:            https://github.com/rnunz/UniqueSounds
 license:             BSD3
 license-file:        LICENSE
-author:              Author name here
+author:              Author Raphael Nunziata
 maintainer:          raphnun@tuta.io
 copyright:           2019 Author Raphael Nunziata
 category:            Web
